@@ -117,6 +117,28 @@ PART 1: OPERATIONS MANUAL
        - testing
        - ci-cd
        - documentation
+- Operating Systems
+   - Windows Development
+      - windows-core
+      - windows-server
+      - powershell-scripting
+      - windows-security
+   - Linux Systems
+      - linux-administration
+      - debian-ubuntu
+      - rhel-fedora
+      - arch-linux
+      - linux-security
+   - macOS Development
+      - macos-development
+      - ios-integration
+      - darwin-kernel
+      - macos-security
+   - Cross-Platform
+      - containerization
+      - virtual-machines
+      - cross-compile
+      - system-migration
 - Cloud & Infrastructure [PREMIUM I]
    - Cloud Platforms
       - aws-advanced
